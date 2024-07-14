@@ -1,6 +1,6 @@
 # Snatch Script
 
-A snatch n grab script for FiveM. This will work with any framework, just note the dependencies listed below.
+A snatch n grab script for FiveM. This currently works only with QB Core, but there are plans to extend out to any framework/standalone soon.
 
 Need to grab a player in your server and bring them to a specific location? Use this script, by simply running a command, a transport of two NPCs (a driver and a snatcher) will go to the player's location and grab them then bring them to the location where the caller is. Receive real time notifications throughout the process to keep track of exactly where in the process the transport is. This script is very configurable, and is open source so you can make any adjustment you need to fit your server.
 
@@ -10,7 +10,7 @@ Need to grab a player in your server and bring them to a specific location? Use 
 
 ## Installation
 
-Drop into your resources folder and ensure:
+Download the zip of the main branch and drop into your resources folder and ensure:
 
 ```
 ensure ir8-snatch
